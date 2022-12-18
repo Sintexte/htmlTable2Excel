@@ -3,7 +3,7 @@ Install Dependencies:
 ```bash
 npm i
 ```
-Help commands:
+Help command:
 ```bash
 node Htmltable2Excelsheet.js -h
 ```
