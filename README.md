@@ -1,4 +1,9 @@
 # htmlTable2Excel
+
+Do you have a Html file with alot of tables with multiple rows and collumns ?
+Do you wanna convert them to excel sheets ?
+this code is for you.
+
 Install Dependencies:
 ```bash
 npm i
