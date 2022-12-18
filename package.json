@@ -1,0 +1,16 @@
+{
+  "name": "htmltable2excel",
+  "version": "1.0.0",
+  "description": "Convert all dom elements of type tables in an html file to multiple excel sheets for each table in one file",
+  "main": "Htmltable2Excelsheet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "excel4node": "^1.8.0",
+    "jsdom": "^20.0.3",
+    "yargs": "^17.6.2"
+  }
+}
